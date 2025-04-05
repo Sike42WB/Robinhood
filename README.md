@@ -1,4 +1,4 @@
-# Maui
+# Robinhood
 Python script that could place an order to buy if morning and after-noon tasks to record price have completed.
 Save API Token in .secets to connect
 
