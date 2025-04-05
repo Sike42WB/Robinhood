@@ -1,5 +1,6 @@
 # Maui
-Python script that Could place an order to buy if morning and after-noon tasks to record price have completed.
+Python script that could place an order to buy if morning and after-noon tasks to record price have completed.
+Save API Token in .secets to connect
 
 ##
 Look at todays 8 am price
