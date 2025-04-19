@@ -11,6 +11,15 @@ Save API Token in .secets to connect
 I wanted to run an elevator pitch by you with a single page business plan for automating my Robinhood trading. The idea is to use a simple Python script that can automatically place a buy order based on certain conditions.	
 
 ###
+test with secrets.dev and secrets.prod
+	- secrets.dev is for development and testing
+	- secrets.prod is for production
+	API_KEY = "rh-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx="
+	BASE64_PRIVATE_KEY = "xXXXXXXXXXXXXXXXXXXXXXXXXXXX="
+	TEST = "false"
+
+
+###
 Sign up today.
 
 Notes: Must have a Robinhood account.
