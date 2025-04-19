@@ -14,6 +14,9 @@ I wanted to run an elevator pitch by you with a single page business plan for au
 test with secrets.dev and secrets.prod
 	- secrets.dev is for development and testing
 	- secrets.prod is for production
+	API_KEY = "rh-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx="
+	BASE64_PRIVATE_KEY = "xXXXXXXXXXXXXXXXXXXXXXXXXXXX="
+	TEST = "false"
 
 
 ###
